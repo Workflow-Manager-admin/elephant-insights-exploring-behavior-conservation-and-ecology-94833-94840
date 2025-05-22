@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/elephant-insights-exploring-behavior-conservation-and-ecology-94833-94840/main_container_for_elephant_insights"
+}
