@@ -225,3 +225,20 @@ ERROR in ./src/pages/Home.js 6:0-21
 Module not found: Error: Can't resolve './Pages.css' in '/home/kavia/workspace/code-generation/elephant-insights-exploring-behavior-conservation-and-ecology-94833-94840/main_container_for_elephant_insights/src/pages'
 
 webpack compiled with 5 errors
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve './Pages.css' in '/home/kavia/workspace/code-generation/elephant-insights-exploring-behavior-conservation-and-ecology-94833-94840/main_container_for_elephant_insights/src/pages'
+ERROR in ./src/pages/Behavior.js 5:0-21
+Module not found: Error: Can't resolve './Pages.css' in '/home/kavia/workspace/code-generation/elephant-insights-exploring-behavior-conservation-and-ecology-94833-94840/main_container_for_elephant_insights/src/pages'
+
+ERROR in ./src/pages/Conservation.js 5:0-21
+Module not found: Error: Can't resolve './Pages.css' in '/home/kavia/workspace/code-generation/elephant-insights-exploring-behavior-conservation-and-ecology-94833-94840/main_container_for_elephant_insights/src/pages'
+
+ERROR in ./src/pages/Ecology.js 5:0-21
+Module not found: Error: Can't resolve './Pages.css' in '/home/kavia/workspace/code-generation/elephant-insights-exploring-behavior-conservation-and-ecology-94833-94840/main_container_for_elephant_insights/src/pages'
+
+ERROR in ./src/pages/Home.js 6:0-21
+Module not found: Error: Can't resolve './Pages.css' in '/home/kavia/workspace/code-generation/elephant-insights-exploring-behavior-conservation-and-ecology-94833-94840/main_container_for_elephant_insights/src/pages'
+
+webpack compiled with 4 errors
