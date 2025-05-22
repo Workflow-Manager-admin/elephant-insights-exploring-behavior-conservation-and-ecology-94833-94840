@@ -182,3 +182,4 @@ ERROR in ./src/pages/Home.js 6:0-21
 Module not found: Error: Can't resolve './Pages.css' in '/home/kavia/workspace/code-generation/elephant-insights-exploring-behavior-conservation-and-ecology-94833-94840/main_container_for_elephant_insights/src/pages'
 
 webpack compiled with 6 errors
+Compiling...
